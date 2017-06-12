@@ -1,0 +1,50 @@
+{
+  "generator": {
+    "version": "0.6.0",
+    "url": "https://github.com/gre/diaporama-maker"
+  },
+  "timeline": [
+    {
+      "duration": 4000,
+      "transitionNext": {
+        "duration": 1000
+      },
+      "image": "IMG_9355.JPG"
+    },
+    {
+      "duration": 4000,
+      "transitionNext": {
+        "duration": 1000
+      },
+      "image": "IMG_9369.JPG"
+    },
+    {
+      "duration": 4000,
+      "transitionNext": {
+        "duration": 1000
+      },
+      "image": "IMG_9370.JPG"
+    },
+    {
+      "duration": 4000,
+      "transitionNext": {
+        "duration": 1000
+      },
+      "image": "IMG_9357.JPG"
+    },
+    {
+      "duration": 4000,
+      "transitionNext": {
+        "duration": 1000
+      },
+      "image": "IMG_9383.JPG"
+    },
+    {
+      "duration": 4000,
+      "transitionNext": {
+        "duration": 1000
+      },
+      "image": "IMG_9378.JPG"
+    }
+  ]
+}
