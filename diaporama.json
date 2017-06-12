@@ -9,6 +9,16 @@
       "transitionNext": {
         "duration": 1000
       },
+          "draws": [
+      {
+        "font": "bold 80px sans-serif",
+        "fillStyle": "#000",
+        "textBaseline": "middle",
+        "textAlign": "center"
+      },
+      [ "fillText", "Social Hack", 400, 300 ]
+    ]
+  },
       "image": "IMG_9355.JPG"
     },
     {
