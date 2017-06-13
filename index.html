@@ -13,12 +13,16 @@
   </style>
 </head>
 <body>
-
+  <div id="avant">
+    XXX
+    </div>
   <div id="diaporama"></div>
-
-  <script src="./diaporama.bundle.js"></script>
+  <div id="apres">
+   XXX
+    </div>
+  <script src="./js/diaporama.bundle.js"></script>
   <script>
-Qajax.getJSON("./diaporama.json").then(function (json) {
+Qajax.getJSON("./data/diaporama3.json").then(function (json) {
   var div = document.getElementById("diaporama");
 
   diaporama = Diaporama(div, json, {
@@ -38,7 +42,13 @@ Qajax.getJSON("./diaporama.json").then(function (json) {
     case 37: // Left
       diaporama.prev();
       break;
+    case 38: // Left
+      diaporama.prev();
+      break;	  
     case 39: // Right
+      diaporama.next();
+      break;
+	case 40: // Right
       diaporama.next();
       break;
     case 32: // Space
