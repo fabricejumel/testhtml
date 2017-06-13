@@ -28,7 +28,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9355.jpg",
+      "image": "data/IMG_9355.JPG",
       "duration": 3600,
       "transitionNext": {
         "name": "directionalwipe",
@@ -58,7 +58,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9357.jpg",
+      "image": "data/IMG_9357.JPG",
       "duration": 4000,
       "transitionNext": {
         "uniforms": {
@@ -85,7 +85,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9369.jpg",
+      "image": "data/IMG_9369.JPG",
       "duration": 3200,
       "transitionNext": {
         "name": "CrossZoom",
@@ -109,7 +109,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9370.jpg",
+      "image": "data/IMG_9370.JPG",
       "duration": 3600,
       "transitionNext": {
         "name": "PageCurl",
@@ -133,7 +133,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9378.jpg",
+      "image": "data/IMG_9378.JPG",
       "duration": 4000,
       "transitionNext": {
         "name": "AdvancedMosaic",
@@ -163,7 +163,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9383.jpg",
+      "image": "data/IMG_9383.JPG",
       "duration": 4000,
       "transitionNext": {
         "name": "Glitch Memories",
@@ -187,7 +187,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9384.jpg",
+      "image": "data/IMG_9384.JPG",
       "duration": 4000,
       "transitionNext": {
         "name": "doorway",
@@ -217,7 +217,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9385.jpg",
+      "image": "data/IMG_9385.JPG",
       "duration": 4700,
       "transitionNext": {
         "name": "swap",
@@ -247,7 +247,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9386.jpg",
+      "image": "data/IMG_9386.JPG",
       "duration": 4000,
       "transitionNext": {
         "name": "cube",
@@ -271,7 +271,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9387.jpg.jpg",
+      "image": "data/IMG_9387.JPG",
       "duration": 3500,
       "transitionNext": {
         "name": "ripple",
@@ -295,7 +295,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9388.jpg",
+      "image": "data/IMG_9388.JPG",
       "duration": 4000,
       "transitionNext": {
         "duration": 1000
