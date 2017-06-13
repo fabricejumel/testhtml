@@ -1,3 +1,4 @@
 # testhtml
 just for test purpose
-this is a simple example of diaporama js library use
+this is a simple example of
+diaporama js library use
