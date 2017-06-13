@@ -109,7 +109,7 @@
           ]
         ]
       },
-      "image": "data/IMG_9370.JPG",
+      "image": "data/IMG_9385.JPG",
       "duration": 3600,
       "transitionNext": {
         "name": "PageCurl",
